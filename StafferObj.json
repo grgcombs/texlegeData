@@ -8098,5 +8098,41 @@
         "stafferID": 6253,
         "title": "District Manager",
         "updated": "2015-03-25 16:47:38"
+    },
+    {
+        "email": "mark.ramsey@house.texas.gov",
+        "legislatorID": 80325,
+        "name": "Mark Ramsey",
+        "phone": null,
+        "stafferID": 6255,
+        "title": "Chief of Staff",
+        "updated": "2017-01-28 11:08:52"
+    },
+    {
+        "email": "rosemary.graber@house.texas.gov",
+        "legislatorID": 80325,
+        "name": "Rosemary Graber",
+        "phone": null,
+        "stafferID": 6256,
+        "title": "Communications Director",
+        "updated": "2017-01-28 11:08:57"
+    },
+    {
+        "email": "trey.green@house.texas.gov",
+        "legislatorID": 80325,
+        "name": "Trey Green",
+        "phone": null,
+        "stafferID": 6257,
+        "title": "Legislative Dir.",
+        "updated": "2017-01-28 11:10:33"
+    },
+    {
+        "email": "austin.griesinger@house.texas.gov",
+        "legislatorID": 80325,
+        "name": "Austin Griesinger",
+        "phone": null,
+        "stafferID": 6258,
+        "title": "Legislative Dir.",
+        "updated": "2017-01-28 11:10:35"
     }
 ]
