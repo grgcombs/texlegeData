@@ -1,0 +1,418 @@
+[
+    {
+        "chamber": 1,
+        "id": 1,
+        "party": 2,
+        "session": 72,
+        "updated": "2016-03-14 15:34:03",
+        "wnom": 0.54409
+    },
+    {
+        "chamber": 1,
+        "id": 2,
+        "party": 2,
+        "session": 73,
+        "updated": "2016-03-14 15:26:34",
+        "wnom": 0.55464863
+    },
+    {
+        "chamber": 1,
+        "id": 3,
+        "party": 2,
+        "session": 74,
+        "updated": "2016-03-14 15:26:53",
+        "wnom": 0.55410858
+    },
+    {
+        "chamber": 1,
+        "id": 4,
+        "party": 2,
+        "session": 75,
+        "updated": "2016-03-14 15:27:09",
+        "wnom": 0.62350717
+    },
+    {
+        "chamber": 1,
+        "id": 5,
+        "party": 2,
+        "session": 76,
+        "updated": "2016-03-14 15:27:24",
+        "wnom": 0.63477294
+    },
+    {
+        "chamber": 1,
+        "id": 6,
+        "party": 2,
+        "session": 77,
+        "updated": "2016-03-14 15:27:43",
+        "wnom": 0.62558568
+    },
+    {
+        "chamber": 1,
+        "id": 7,
+        "party": 2,
+        "session": 78,
+        "updated": "2016-03-14 15:27:53",
+        "wnom": 0.62960531
+    },
+    {
+        "chamber": 1,
+        "id": 8,
+        "party": 2,
+        "session": 79,
+        "updated": "2016-03-14 15:28:04",
+        "wnom": 0.62080235
+    },
+    {
+        "chamber": 1,
+        "id": 9,
+        "party": 2,
+        "session": 80,
+        "updated": "2016-03-14 15:28:17",
+        "wnom": 0.61892348
+    },
+    {
+        "chamber": 1,
+        "id": 10,
+        "party": 2,
+        "session": 81,
+        "updated": "2016-03-14 15:28:28",
+        "wnom": 0.70358094
+    },
+    {
+        "chamber": 1,
+        "id": 11,
+        "party": 1,
+        "session": 72,
+        "updated": "2016-03-14 15:35:53",
+        "wnom": -0.42222
+    },
+    {
+        "chamber": 1,
+        "id": 12,
+        "party": 1,
+        "session": 73,
+        "updated": "2016-03-14 15:36:03",
+        "wnom": -0.45522731
+    },
+    {
+        "chamber": 1,
+        "id": 13,
+        "party": 1,
+        "session": 74,
+        "updated": "2016-03-14 15:36:14",
+        "wnom": -0.43562968
+    },
+    {
+        "chamber": 1,
+        "id": 14,
+        "party": 1,
+        "session": 75,
+        "updated": "2016-03-14 15:36:22",
+        "wnom": -0.53796948
+    },
+    {
+        "chamber": 1,
+        "id": 15,
+        "party": 1,
+        "session": 76,
+        "updated": "2016-03-14 15:36:32",
+        "wnom": -0.5816105
+    },
+    {
+        "chamber": 1,
+        "id": 16,
+        "party": 1,
+        "session": 77,
+        "updated": "2016-03-14 15:36:41",
+        "wnom": -0.58387727
+    },
+    {
+        "chamber": 1,
+        "id": 17,
+        "party": 1,
+        "session": 78,
+        "updated": "2016-03-14 15:36:47",
+        "wnom": -0.63998437
+    },
+    {
+        "chamber": 1,
+        "id": 18,
+        "party": 1,
+        "session": 79,
+        "updated": "2016-03-14 15:36:55",
+        "wnom": -0.69983342
+    },
+    {
+        "chamber": 1,
+        "id": 19,
+        "party": 1,
+        "session": 80,
+        "updated": "2016-03-14 15:37:03",
+        "wnom": -0.69172326
+    },
+    {
+        "chamber": 1,
+        "id": 20,
+        "party": 1,
+        "session": 81,
+        "updated": "2016-03-14 15:37:12",
+        "wnom": -0.72519727
+    },
+    {
+        "chamber": 2,
+        "id": 21,
+        "party": 2,
+        "session": 76,
+        "updated": "2011-06-20 13:49:00",
+        "wnom": 0.771496
+    },
+    {
+        "chamber": 2,
+        "id": 22,
+        "party": 2,
+        "session": 77,
+        "updated": "2011-06-20 13:49:00",
+        "wnom": 0.814249
+    },
+    {
+        "chamber": 2,
+        "id": 23,
+        "party": 2,
+        "session": 78,
+        "updated": "2011-06-20 13:49:00",
+        "wnom": 0.879971
+    },
+    {
+        "chamber": 2,
+        "id": 24,
+        "party": 2,
+        "session": 79,
+        "updated": "2011-06-20 13:49:00",
+        "wnom": 0.873631
+    },
+    {
+        "chamber": 2,
+        "id": 25,
+        "party": 2,
+        "session": 80,
+        "updated": "2011-06-20 13:49:00",
+        "wnom": 0.858678
+    },
+    {
+        "chamber": 2,
+        "id": 26,
+        "party": 2,
+        "session": 81,
+        "updated": "2011-06-20 13:49:00",
+        "wnom": 0.887799
+    },
+    {
+        "chamber": 2,
+        "id": 27,
+        "party": 1,
+        "session": 76,
+        "updated": "2011-06-20 13:49:00",
+        "wnom": -0.60042
+    },
+    {
+        "chamber": 2,
+        "id": 28,
+        "party": 1,
+        "session": 77,
+        "updated": "2011-06-20 13:49:00",
+        "wnom": -0.602352
+    },
+    {
+        "chamber": 2,
+        "id": 29,
+        "party": 1,
+        "session": 78,
+        "updated": "2011-06-20 13:49:00",
+        "wnom": -0.625955
+    },
+    {
+        "chamber": 2,
+        "id": 30,
+        "party": 1,
+        "session": 79,
+        "updated": "2011-06-20 13:49:00",
+        "wnom": -0.621295
+    },
+    {
+        "chamber": 2,
+        "id": 31,
+        "party": 1,
+        "session": 80,
+        "updated": "2011-06-20 13:49:00",
+        "wnom": -0.701976
+    },
+    {
+        "chamber": 2,
+        "id": 32,
+        "party": 1,
+        "session": 81,
+        "updated": "2011-06-20 13:49:00",
+        "wnom": -0.726935
+    },
+    {
+        "chamber": 2,
+        "id": 33,
+        "party": 1,
+        "session": 72,
+        "updated": "2011-06-20 13:49:00",
+        "wnom": -0.53205
+    },
+    {
+        "chamber": 1,
+        "id": 34,
+        "party": 2,
+        "session": 82,
+        "updated": "2016-03-14 15:34:29",
+        "wnom": 0.69150333
+    },
+    {
+        "chamber": 1,
+        "id": 35,
+        "party": 1,
+        "session": 82,
+        "updated": "2016-03-22 18:16:36",
+        "wnom": -0.83001244
+    },
+    {
+        "chamber": 2,
+        "id": 36,
+        "party": 2,
+        "session": 72,
+        "updated": "2011-06-20 13:49:00",
+        "wnom": 0.73478
+    },
+    {
+        "chamber": 2,
+        "id": 37,
+        "party": 2,
+        "session": 73,
+        "updated": "2011-06-20 13:49:00",
+        "wnom": 0.729304
+    },
+    {
+        "chamber": 2,
+        "id": 38,
+        "party": 2,
+        "session": 74,
+        "updated": "2011-06-20 13:49:00",
+        "wnom": 0.707211
+    },
+    {
+        "chamber": 2,
+        "id": 39,
+        "party": 2,
+        "session": 75,
+        "updated": "2011-06-20 13:49:00",
+        "wnom": 0.797597
+    },
+    {
+        "chamber": 2,
+        "id": 40,
+        "party": 2,
+        "session": 82,
+        "updated": "2011-06-20 13:49:00",
+        "wnom": 0.952801
+    },
+    {
+        "chamber": 2,
+        "id": 41,
+        "party": 1,
+        "session": 73,
+        "updated": "2011-06-20 13:49:00",
+        "wnom": -0.480434
+    },
+    {
+        "chamber": 2,
+        "id": 42,
+        "party": 1,
+        "session": 74,
+        "updated": "2011-06-20 13:49:00",
+        "wnom": -0.451322
+    },
+    {
+        "chamber": 2,
+        "id": 43,
+        "party": 1,
+        "session": 75,
+        "updated": "2011-06-20 13:49:00",
+        "wnom": -0.61633
+    },
+    {
+        "chamber": 2,
+        "id": 44,
+        "party": 1,
+        "session": 82,
+        "updated": "2011-06-20 13:49:00",
+        "wnom": -0.743625
+    },
+    {
+        "chamber": 1,
+        "id": 45,
+        "party": 1,
+        "session": 83,
+        "updated": "2016-03-14 15:37:26",
+        "wnom": -0.90769672
+    },
+    {
+        "chamber": 1,
+        "id": 46,
+        "party": 2,
+        "session": 83,
+        "updated": "2016-03-14 15:29:59",
+        "wnom": 0.70477004
+    },
+    {
+        "chamber": 2,
+        "id": 47,
+        "party": 2,
+        "session": 83,
+        "updated": "2016-03-22 16:54:09",
+        "wnom": 0.964145
+    },
+    {
+        "chamber": 2,
+        "id": 48,
+        "party": 1,
+        "session": 83,
+        "updated": "2016-03-22 16:52:04",
+        "wnom": -0.667901
+    },
+    {
+        "chamber": 1,
+        "id": 49,
+        "party": 2,
+        "session": 84,
+        "updated": "2016-03-14 15:29:34",
+        "wnom": 0.71281571
+    },
+    {
+        "chamber": 1,
+        "id": 50,
+        "party": 1,
+        "session": 84,
+        "updated": "2016-03-14 15:38:07",
+        "wnom": -0.94742247
+    },
+    {
+        "chamber": 2,
+        "id": 51,
+        "party": 1,
+        "session": 84,
+        "updated": "2016-03-22 16:53:55",
+        "wnom": -0.714447
+    },
+    {
+        "chamber": 2,
+        "id": 52,
+        "party": 2,
+        "session": 84,
+        "updated": "2016-03-22 16:53:44",
+        "wnom": 1.24489
+    }
+]
