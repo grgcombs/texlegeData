@@ -8134,5 +8134,50 @@
         "stafferID": 6258,
         "title": "Legislative Dir.",
         "updated": "2017-01-28 11:10:35"
+    },
+    {
+        "email": "amy.garza@house.state.tx.us",
+        "legislatorID": 78684,
+        "name": "Amy Garza",
+        "phone": null,
+        "stafferID": 6259,
+        "title": "Chief of Staff",
+        "updated": "2017-02-07 13:54:00"
+    },
+    {
+        "email": "clarissa.rodrigez@house.state.tx.us",
+        "legislatorID": 78684,
+        "name": "Clarissa Rodriguez",
+        "phone": null,
+        "stafferID": 6260,
+        "title": "Legislative Dir.",
+        "updated": "2017-02-07 13:54:00"
+    },
+    {
+        "email": "jim.boynton@house.state.tx.us",
+        "legislatorID": 78684,
+        "name": "Jim Boynton",
+        "phone": null,
+        "stafferID": 6261,
+        "title": "Senior Advisor",
+        "updated": "2017-02-07 13:54:00"
+    },
+    {
+        "email": "kady.kelly@house.state.tx.us",
+        "legislatorID": 78684,
+        "name": "Kady Kelly",
+        "phone": null,
+        "stafferID": 6262,
+        "title": "District Director",
+        "updated": "2017-02-07 13:54:00"
+    },
+    {
+        "email": "george.ramos@house.state.tx.us",
+        "legislatorID": 78684,
+        "name": "George Ramos",
+        "phone": null,
+        "stafferID": 6263,
+        "title": "Legislative Asst.",
+        "updated": "2017-02-07 13:54:00"
     }
 ]
