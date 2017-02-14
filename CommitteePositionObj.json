@@ -1083,5 +1083,2679 @@
         "legislatorID": 5465,
         "position": 0,
         "updated": "2017-02-03 08:36:00"
+    },
+    {
+        "committeeId": 14,
+        "committeePositionID": 156,
+        "legislatorID": 5540,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 14,
+        "committeePositionID": 157,
+        "legislatorID": 137767,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 14,
+        "committeePositionID": 158,
+        "legislatorID": 49739,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 14,
+        "committeePositionID": 159,
+        "legislatorID": 70273,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 14,
+        "committeePositionID": 160,
+        "legislatorID": 70492,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 14,
+        "committeePositionID": 161,
+        "legislatorID": 65931,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 14,
+        "committeePositionID": 162,
+        "legislatorID": 80276,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 163,
+        "legislatorID": 56718,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 164,
+        "legislatorID": 137738,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 165,
+        "legislatorID": 138345,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 166,
+        "legislatorID": 138328,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 167,
+        "legislatorID": 117464,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 168,
+        "legislatorID": 80221,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 169,
+        "legislatorID": 117479,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 170,
+        "legislatorID": 80046,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 171,
+        "legislatorID": 5448,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 172,
+        "legislatorID": 5506,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 173,
+        "legislatorID": 117456,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 174,
+        "legislatorID": 137767,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 175,
+        "legislatorID": 59196,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 176,
+        "legislatorID": 69372,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 177,
+        "legislatorID": 138333,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 178,
+        "legislatorID": 5424,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 179,
+        "legislatorID": 137802,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 180,
+        "legislatorID": 62288,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 181,
+        "legislatorID": 138322,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 182,
+        "legislatorID": 80039,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 183,
+        "legislatorID": 78692,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 184,
+        "legislatorID": 137784,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 185,
+        "legislatorID": 116950,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 186,
+        "legislatorID": 138351,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 187,
+        "legislatorID": 69367,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 188,
+        "legislatorID": 102289,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 41,
+        "committeePositionID": 189,
+        "legislatorID": 137800,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 3,
+        "committeePositionID": 190,
+        "legislatorID": 49874,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 3,
+        "committeePositionID": 191,
+        "legislatorID": 69715,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 3,
+        "committeePositionID": 192,
+        "legislatorID": 5448,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 3,
+        "committeePositionID": 193,
+        "legislatorID": 58818,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 3,
+        "committeePositionID": 194,
+        "legislatorID": 59370,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 3,
+        "committeePositionID": 195,
+        "legislatorID": 69726,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 3,
+        "committeePositionID": 196,
+        "legislatorID": 116939,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 4,
+        "committeePositionID": 197,
+        "legislatorID": 5560,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 4,
+        "committeePositionID": 198,
+        "legislatorID": 26513,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 4,
+        "committeePositionID": 199,
+        "legislatorID": 137771,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 4,
+        "committeePositionID": 200,
+        "legislatorID": 69719,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 4,
+        "committeePositionID": 201,
+        "legislatorID": 138371,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 4,
+        "committeePositionID": 202,
+        "legislatorID": 138377,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 4,
+        "committeePositionID": 203,
+        "legislatorID": 116948,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 23,
+        "committeePositionID": 204,
+        "legislatorID": 5532,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 23,
+        "committeePositionID": 205,
+        "legislatorID": 59196,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 23,
+        "committeePositionID": 206,
+        "legislatorID": 5468,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 23,
+        "committeePositionID": 207,
+        "legislatorID": 138345,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 23,
+        "committeePositionID": 208,
+        "legislatorID": 50125,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 23,
+        "committeePositionID": 209,
+        "legislatorID": 117479,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 23,
+        "committeePositionID": 210,
+        "legislatorID": 49376,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 23,
+        "committeePositionID": 211,
+        "legislatorID": 5506,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 23,
+        "committeePositionID": 212,
+        "legislatorID": 138318,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 23,
+        "committeePositionID": 213,
+        "legislatorID": 138367,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 23,
+        "committeePositionID": 214,
+        "legislatorID": 69372,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 23,
+        "committeePositionID": 215,
+        "legislatorID": 138019,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 23,
+        "committeePositionID": 216,
+        "legislatorID": 138313,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 23,
+        "committeePositionID": 217,
+        "legislatorID": 62288,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 23,
+        "committeePositionID": 218,
+        "legislatorID": 137784,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 2,
+        "committeePositionID": 219,
+        "legislatorID": 117468,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 2,
+        "committeePositionID": 220,
+        "legislatorID": 116968,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 2,
+        "committeePositionID": 221,
+        "legislatorID": 49842,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 2,
+        "committeePositionID": 222,
+        "legislatorID": 59301,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 2,
+        "committeePositionID": 223,
+        "legislatorID": 49304,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 2,
+        "committeePositionID": 224,
+        "legislatorID": 69477,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 2,
+        "committeePositionID": 225,
+        "legislatorID": 59370,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 2,
+        "committeePositionID": 226,
+        "legislatorID": 49637,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 2,
+        "committeePositionID": 227,
+        "legislatorID": 138360,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 12,
+        "committeePositionID": 228,
+        "legislatorID": 116939,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 12,
+        "committeePositionID": 229,
+        "legislatorID": 25503,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 12,
+        "committeePositionID": 230,
+        "legislatorID": 117479,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 12,
+        "committeePositionID": 231,
+        "legislatorID": 69719,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 12,
+        "committeePositionID": 232,
+        "legislatorID": 138362,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 12,
+        "committeePositionID": 233,
+        "legislatorID": 138312,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 12,
+        "committeePositionID": 234,
+        "legislatorID": 69489,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 11,
+        "committeePositionID": 235,
+        "legislatorID": 5479,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 11,
+        "committeePositionID": 236,
+        "legislatorID": 138360,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 11,
+        "committeePositionID": 237,
+        "legislatorID": 80113,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 11,
+        "committeePositionID": 238,
+        "legislatorID": 5532,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 11,
+        "committeePositionID": 239,
+        "legislatorID": 80065,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 11,
+        "committeePositionID": 240,
+        "legislatorID": 80039,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 11,
+        "committeePositionID": 241,
+        "legislatorID": 138371,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 11,
+        "committeePositionID": 242,
+        "legislatorID": 65781,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 11,
+        "committeePositionID": 243,
+        "legislatorID": 80143,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 37,
+        "committeePositionID": 244,
+        "legislatorID": 102266,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 37,
+        "committeePositionID": 245,
+        "legislatorID": 5532,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 37,
+        "committeePositionID": 246,
+        "legislatorID": 137743,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 37,
+        "committeePositionID": 247,
+        "legislatorID": 80284,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 37,
+        "committeePositionID": 248,
+        "legislatorID": 80101,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 37,
+        "committeePositionID": 249,
+        "legislatorID": 70774,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 37,
+        "committeePositionID": 250,
+        "legislatorID": 80350,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 17,
+        "committeePositionID": 251,
+        "legislatorID": 102062,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 17,
+        "committeePositionID": 252,
+        "legislatorID": 49576,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 17,
+        "committeePositionID": 253,
+        "legislatorID": 80128,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 17,
+        "committeePositionID": 254,
+        "legislatorID": 25400,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 17,
+        "committeePositionID": 255,
+        "legislatorID": 80440,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 17,
+        "committeePositionID": 256,
+        "legislatorID": 138355,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 17,
+        "committeePositionID": 257,
+        "legislatorID": 69477,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 17,
+        "committeePositionID": 258,
+        "legislatorID": 58818,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 17,
+        "committeePositionID": 259,
+        "legislatorID": 138377,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 1,
+        "committeePositionID": 260,
+        "legislatorID": 50001,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 1,
+        "committeePositionID": 261,
+        "legislatorID": 50675,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 1,
+        "committeePositionID": 262,
+        "legislatorID": 66277,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 1,
+        "committeePositionID": 263,
+        "legislatorID": 115056,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 1,
+        "committeePositionID": 264,
+        "legislatorID": 98049,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 1,
+        "committeePositionID": 265,
+        "legislatorID": 102294,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 1,
+        "committeePositionID": 266,
+        "legislatorID": 80325,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 22,
+        "committeePositionID": 267,
+        "legislatorID": 49842,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 22,
+        "committeePositionID": 268,
+        "legislatorID": 49739,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 22,
+        "committeePositionID": 269,
+        "legislatorID": 138328,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 22,
+        "committeePositionID": 270,
+        "legislatorID": 137743,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 22,
+        "committeePositionID": 271,
+        "legislatorID": 138316,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 22,
+        "committeePositionID": 272,
+        "legislatorID": 5485,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 22,
+        "committeePositionID": 273,
+        "legislatorID": 137747,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 22,
+        "committeePositionID": 274,
+        "legislatorID": 116946,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 22,
+        "committeePositionID": 275,
+        "legislatorID": 25435,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 22,
+        "committeePositionID": 276,
+        "legislatorID": 80253,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 22,
+        "committeePositionID": 277,
+        "legislatorID": 69756,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 22,
+        "committeePositionID": 278,
+        "legislatorID": 70460,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 22,
+        "committeePositionID": 279,
+        "legislatorID": 102289,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 25,
+        "committeePositionID": 280,
+        "legislatorID": 5563,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 25,
+        "committeePositionID": 281,
+        "legislatorID": 131451,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 25,
+        "committeePositionID": 282,
+        "legislatorID": 70492,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 25,
+        "committeePositionID": 283,
+        "legislatorID": 122924,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 25,
+        "committeePositionID": 284,
+        "legislatorID": 138318,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 25,
+        "committeePositionID": 285,
+        "legislatorID": 69756,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 25,
+        "committeePositionID": 286,
+        "legislatorID": 116981,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 25,
+        "committeePositionID": 287,
+        "legislatorID": 102294,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 25,
+        "committeePositionID": 288,
+        "legislatorID": 49637,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 10,
+        "committeePositionID": 289,
+        "legislatorID": 59370,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 10,
+        "committeePositionID": 290,
+        "legislatorID": 49730,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 10,
+        "committeePositionID": 291,
+        "legislatorID": 70273,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 10,
+        "committeePositionID": 292,
+        "legislatorID": 80046,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 10,
+        "committeePositionID": 293,
+        "legislatorID": 80066,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 10,
+        "committeePositionID": 294,
+        "legislatorID": 116968,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 10,
+        "committeePositionID": 295,
+        "legislatorID": 137738,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 19,
+        "committeePositionID": 296,
+        "legislatorID": 117479,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 19,
+        "committeePositionID": 297,
+        "legislatorID": 102266,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 19,
+        "committeePositionID": 298,
+        "legislatorID": 117464,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 19,
+        "committeePositionID": 299,
+        "legislatorID": 138019,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 19,
+        "committeePositionID": 300,
+        "legislatorID": 116959,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 19,
+        "committeePositionID": 301,
+        "legislatorID": 26513,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 19,
+        "committeePositionID": 302,
+        "legislatorID": 102270,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 109,
+        "committeePositionID": 303,
+        "legislatorID": 5502,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 109,
+        "committeePositionID": 304,
+        "legislatorID": 117464,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 109,
+        "committeePositionID": 305,
+        "legislatorID": 117456,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 109,
+        "committeePositionID": 306,
+        "legislatorID": 56543,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 109,
+        "committeePositionID": 307,
+        "legislatorID": 69726,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 109,
+        "committeePositionID": 308,
+        "legislatorID": 69489,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 109,
+        "committeePositionID": 309,
+        "legislatorID": 80143,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 28,
+        "committeePositionID": 310,
+        "legislatorID": 116981,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 28,
+        "committeePositionID": 311,
+        "legislatorID": 138322,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 28,
+        "committeePositionID": 312,
+        "legislatorID": 5468,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 28,
+        "committeePositionID": 313,
+        "legislatorID": 49524,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 28,
+        "committeePositionID": 314,
+        "legislatorID": 102062,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 28,
+        "committeePositionID": 315,
+        "legislatorID": 138316,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 28,
+        "committeePositionID": 316,
+        "legislatorID": 59196,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 28,
+        "committeePositionID": 317,
+        "legislatorID": 25497,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 28,
+        "committeePositionID": 318,
+        "legislatorID": 102270,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 40,
+        "committeePositionID": 319,
+        "legislatorID": 49376,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 40,
+        "committeePositionID": 320,
+        "legislatorID": 69367,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 40,
+        "committeePositionID": 321,
+        "legislatorID": 70466,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 40,
+        "committeePositionID": 322,
+        "legislatorID": 70492,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 40,
+        "committeePositionID": 323,
+        "legislatorID": 138373,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 40,
+        "committeePositionID": 324,
+        "legislatorID": 80440,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 40,
+        "committeePositionID": 325,
+        "legislatorID": 59196,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 40,
+        "committeePositionID": 326,
+        "legislatorID": 80010,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 40,
+        "committeePositionID": 327,
+        "legislatorID": 138322,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 40,
+        "committeePositionID": 328,
+        "legislatorID": 70460,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 40,
+        "committeePositionID": 329,
+        "legislatorID": 49576,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 38,
+        "committeePositionID": 330,
+        "legislatorID": 106951,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 38,
+        "committeePositionID": 331,
+        "legislatorID": 69541,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 38,
+        "committeePositionID": 332,
+        "legislatorID": 70476,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 38,
+        "committeePositionID": 333,
+        "legislatorID": 69218,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 38,
+        "committeePositionID": 334,
+        "legislatorID": 9956,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 38,
+        "committeePositionID": 335,
+        "legislatorID": 80253,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 38,
+        "committeePositionID": 336,
+        "legislatorID": 80350,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 36,
+        "committeePositionID": 337,
+        "legislatorID": 5571,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 36,
+        "committeePositionID": 338,
+        "legislatorID": 138361,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 36,
+        "committeePositionID": 339,
+        "legislatorID": 69715,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 36,
+        "committeePositionID": 340,
+        "legislatorID": 138369,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 36,
+        "committeePositionID": 341,
+        "legislatorID": 138333,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 36,
+        "committeePositionID": 342,
+        "legislatorID": 987654,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 36,
+        "committeePositionID": 343,
+        "legislatorID": 137784,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 36,
+        "committeePositionID": 344,
+        "legislatorID": 80325,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 36,
+        "committeePositionID": 345,
+        "legislatorID": 137800,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 16,
+        "committeePositionID": 346,
+        "legislatorID": 49937,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 16,
+        "committeePositionID": 347,
+        "legislatorID": 5424,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 16,
+        "committeePositionID": 348,
+        "legislatorID": 66277,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 16,
+        "committeePositionID": 349,
+        "legislatorID": 116935,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 16,
+        "committeePositionID": 350,
+        "legislatorID": 80010,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 16,
+        "committeePositionID": 351,
+        "legislatorID": 69502,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 16,
+        "committeePositionID": 352,
+        "legislatorID": 138362,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 16,
+        "committeePositionID": 353,
+        "legislatorID": 102270,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 16,
+        "committeePositionID": 354,
+        "legislatorID": 49576,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 34,
+        "committeePositionID": 355,
+        "legislatorID": 5581,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 34,
+        "committeePositionID": 356,
+        "legislatorID": 5503,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 34,
+        "committeePositionID": 357,
+        "legislatorID": 106951,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 34,
+        "committeePositionID": 358,
+        "legislatorID": 59301,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 34,
+        "committeePositionID": 359,
+        "legislatorID": 50001,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 34,
+        "committeePositionID": 360,
+        "legislatorID": 69565,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 34,
+        "committeePositionID": 361,
+        "legislatorID": 80065,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 34,
+        "committeePositionID": 362,
+        "legislatorID": 65931,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 34,
+        "committeePositionID": 363,
+        "legislatorID": 57835,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 107,
+        "committeePositionID": 364,
+        "legislatorID": 5498,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 107,
+        "committeePositionID": 365,
+        "legislatorID": 122924,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 107,
+        "committeePositionID": 366,
+        "legislatorID": 80113,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 107,
+        "committeePositionID": 367,
+        "legislatorID": 69218,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 107,
+        "committeePositionID": 368,
+        "legislatorID": 102266,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 107,
+        "committeePositionID": 369,
+        "legislatorID": 57835,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 107,
+        "committeePositionID": 370,
+        "legislatorID": 65781,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 32,
+        "committeePositionID": 371,
+        "legislatorID": 128461,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 32,
+        "committeePositionID": 372,
+        "legislatorID": 49248,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 32,
+        "committeePositionID": 373,
+        "legislatorID": 117461,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 32,
+        "committeePositionID": 374,
+        "legislatorID": 49376,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 32,
+        "committeePositionID": 375,
+        "legislatorID": 138373,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 32,
+        "committeePositionID": 376,
+        "legislatorID": 59301,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 32,
+        "committeePositionID": 377,
+        "legislatorID": 50002,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 32,
+        "committeePositionID": 378,
+        "legislatorID": 138313,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 32,
+        "committeePositionID": 379,
+        "legislatorID": 8012,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 29,
+        "committeePositionID": 380,
+        "legislatorID": 50002,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 29,
+        "committeePositionID": 381,
+        "legislatorID": 138308,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 29,
+        "committeePositionID": 382,
+        "legislatorID": 80128,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 29,
+        "committeePositionID": 383,
+        "legislatorID": 69541,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 29,
+        "committeePositionID": 384,
+        "legislatorID": 67849,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 29,
+        "committeePositionID": 385,
+        "legislatorID": 117467,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 29,
+        "committeePositionID": 386,
+        "legislatorID": 80276,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 39,
+        "committeePositionID": 387,
+        "legislatorID": 8012,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 39,
+        "committeePositionID": 388,
+        "legislatorID": 138316,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 39,
+        "committeePositionID": 389,
+        "legislatorID": 117468,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 39,
+        "committeePositionID": 390,
+        "legislatorID": 117464,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 39,
+        "committeePositionID": 391,
+        "legislatorID": 137771,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 39,
+        "committeePositionID": 392,
+        "legislatorID": 80046,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 39,
+        "committeePositionID": 393,
+        "legislatorID": 138361,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 39,
+        "committeePositionID": 394,
+        "legislatorID": 117456,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 39,
+        "committeePositionID": 395,
+        "legislatorID": 69756,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 39,
+        "committeePositionID": 396,
+        "legislatorID": 137738,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 39,
+        "committeePositionID": 397,
+        "legislatorID": 987654,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 39,
+        "committeePositionID": 398,
+        "legislatorID": 69565,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 39,
+        "committeePositionID": 399,
+        "legislatorID": 138351,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 31,
+        "committeePositionID": 400,
+        "legislatorID": 98049,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 31,
+        "committeePositionID": 401,
+        "legislatorID": 62288,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 31,
+        "committeePositionID": 402,
+        "legislatorID": 138345,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 31,
+        "committeePositionID": 403,
+        "legislatorID": 69548,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 31,
+        "committeePositionID": 404,
+        "legislatorID": 138361,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 31,
+        "committeePositionID": 405,
+        "legislatorID": 138318,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 31,
+        "committeePositionID": 406,
+        "legislatorID": 5540,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 31,
+        "committeePositionID": 407,
+        "legislatorID": 56543,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 31,
+        "committeePositionID": 408,
+        "legislatorID": 138019,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 31,
+        "committeePositionID": 409,
+        "legislatorID": 116959,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 31,
+        "committeePositionID": 410,
+        "legislatorID": 116948,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 6,
+        "committeePositionID": 411,
+        "legislatorID": 9956,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 6,
+        "committeePositionID": 412,
+        "legislatorID": 5468,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 6,
+        "committeePositionID": 413,
+        "legislatorID": 49874,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 6,
+        "committeePositionID": 414,
+        "legislatorID": 80101,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 6,
+        "committeePositionID": 415,
+        "legislatorID": 117477,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 6,
+        "committeePositionID": 416,
+        "legislatorID": 69502,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 6,
+        "committeePositionID": 417,
+        "legislatorID": 78692,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 111,
+        "committeePositionID": 418,
+        "legislatorID": 25400,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 111,
+        "committeePositionID": 419,
+        "legislatorID": 69502,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 111,
+        "committeePositionID": 420,
+        "legislatorID": 67849,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 111,
+        "committeePositionID": 421,
+        "legislatorID": 138373,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 111,
+        "committeePositionID": 422,
+        "legislatorID": 5540,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 111,
+        "committeePositionID": 423,
+        "legislatorID": 25497,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 111,
+        "committeePositionID": 424,
+        "legislatorID": 5560,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 111,
+        "committeePositionID": 425,
+        "legislatorID": 58818,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 111,
+        "committeePositionID": 426,
+        "legislatorID": 62288,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 111,
+        "committeePositionID": 427,
+        "legislatorID": 80039,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 111,
+        "committeePositionID": 428,
+        "legislatorID": 78692,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 35,
+        "committeePositionID": 429,
+        "legislatorID": 117477,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 35,
+        "committeePositionID": 430,
+        "legislatorID": 70466,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 35,
+        "committeePositionID": 431,
+        "legislatorID": 25503,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 35,
+        "committeePositionID": 432,
+        "legislatorID": 10044,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 35,
+        "committeePositionID": 433,
+        "legislatorID": 25400,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 35,
+        "committeePositionID": 434,
+        "legislatorID": 5498,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 35,
+        "committeePositionID": 435,
+        "legislatorID": 116935,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 35,
+        "committeePositionID": 436,
+        "legislatorID": 138367,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 35,
+        "committeePositionID": 437,
+        "legislatorID": 69372,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 35,
+        "committeePositionID": 438,
+        "legislatorID": 69344,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 35,
+        "committeePositionID": 439,
+        "legislatorID": 69367,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 27,
+        "committeePositionID": 440,
+        "legislatorID": 116959,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 27,
+        "committeePositionID": 441,
+        "legislatorID": 116950,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 27,
+        "committeePositionID": 442,
+        "legislatorID": 70476,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 27,
+        "committeePositionID": 443,
+        "legislatorID": 117468,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 27,
+        "committeePositionID": 444,
+        "legislatorID": 5479,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 27,
+        "committeePositionID": 445,
+        "legislatorID": 137771,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 27,
+        "committeePositionID": 446,
+        "legislatorID": 78684,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 27,
+        "committeePositionID": 447,
+        "legislatorID": 137747,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 27,
+        "committeePositionID": 448,
+        "legislatorID": 138369,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 27,
+        "committeePositionID": 449,
+        "legislatorID": 80010,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 27,
+        "committeePositionID": 450,
+        "legislatorID": 49612,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 21,
+        "committeePositionID": 451,
+        "legislatorID": 25435,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 21,
+        "committeePositionID": 452,
+        "legislatorID": 138019,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 21,
+        "committeePositionID": 453,
+        "legislatorID": 69548,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 21,
+        "committeePositionID": 454,
+        "legislatorID": 80440,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 21,
+        "committeePositionID": 455,
+        "legislatorID": 80066,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 21,
+        "committeePositionID": 456,
+        "legislatorID": 80580,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 21,
+        "committeePositionID": 457,
+        "legislatorID": 69477,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 21,
+        "committeePositionID": 458,
+        "legislatorID": 138312,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 21,
+        "committeePositionID": 459,
+        "legislatorID": 69503,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 15,
+        "committeePositionID": 460,
+        "legislatorID": 117461,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 15,
+        "committeePositionID": 461,
+        "legislatorID": 67849,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 15,
+        "committeePositionID": 462,
+        "legislatorID": 10099,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 15,
+        "committeePositionID": 463,
+        "legislatorID": 115056,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 15,
+        "committeePositionID": 464,
+        "legislatorID": 80284,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 15,
+        "committeePositionID": 465,
+        "legislatorID": 117467,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 15,
+        "committeePositionID": 466,
+        "legislatorID": 49304,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 20,
+        "committeePositionID": 467,
+        "legislatorID": 56543,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 20,
+        "committeePositionID": 468,
+        "legislatorID": 138318,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 20,
+        "committeePositionID": 469,
+        "legislatorID": 70476,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 20,
+        "committeePositionID": 470,
+        "legislatorID": 80128,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 20,
+        "committeePositionID": 471,
+        "legislatorID": 69548,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 20,
+        "committeePositionID": 472,
+        "legislatorID": 67849,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 20,
+        "committeePositionID": 473,
+        "legislatorID": 80284,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 20,
+        "committeePositionID": 474,
+        "legislatorID": 69502,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 20,
+        "committeePositionID": 475,
+        "legislatorID": 69719,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 20,
+        "committeePositionID": 476,
+        "legislatorID": 116950,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 20,
+        "committeePositionID": 477,
+        "legislatorID": 69503,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 8,
+        "committeePositionID": 478,
+        "legislatorID": 57985,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 8,
+        "committeePositionID": 479,
+        "legislatorID": 137802,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 8,
+        "committeePositionID": 480,
+        "legislatorID": 138308,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 8,
+        "committeePositionID": 481,
+        "legislatorID": 78684,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 8,
+        "committeePositionID": 482,
+        "legislatorID": 80221,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 8,
+        "committeePositionID": 483,
+        "legislatorID": 70774,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 8,
+        "committeePositionID": 484,
+        "legislatorID": 70460,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 33,
+        "committeePositionID": 485,
+        "legislatorID": 50125,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 33,
+        "committeePositionID": 486,
+        "legislatorID": 5506,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 33,
+        "committeePositionID": 487,
+        "legislatorID": 5485,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 33,
+        "committeePositionID": 488,
+        "legislatorID": 5503,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 33,
+        "committeePositionID": 489,
+        "legislatorID": 49376,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 33,
+        "committeePositionID": 490,
+        "legislatorID": 49248,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 33,
+        "committeePositionID": 491,
+        "legislatorID": 138367,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 33,
+        "committeePositionID": 492,
+        "legislatorID": 128461,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 33,
+        "committeePositionID": 493,
+        "legislatorID": 69344,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 33,
+        "committeePositionID": 494,
+        "legislatorID": 5560,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 33,
+        "committeePositionID": 495,
+        "legislatorID": 138313,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 33,
+        "committeePositionID": 496,
+        "legislatorID": 49637,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 33,
+        "committeePositionID": 497,
+        "legislatorID": 5581,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 110,
+        "committeePositionID": 498,
+        "legislatorID": 49842,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 110,
+        "committeePositionID": 499,
+        "legislatorID": 69565,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 110,
+        "committeePositionID": 500,
+        "legislatorID": 49874,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 110,
+        "committeePositionID": 501,
+        "legislatorID": 117456,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 110,
+        "committeePositionID": 502,
+        "legislatorID": 116968,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 110,
+        "committeePositionID": 503,
+        "legislatorID": 138367,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 110,
+        "committeePositionID": 504,
+        "legislatorID": 138313,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 110,
+        "committeePositionID": 505,
+        "legislatorID": 8012,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 110,
+        "committeePositionID": 506,
+        "legislatorID": 102270,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 30,
+        "committeePositionID": 507,
+        "legislatorID": 25497,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 30,
+        "committeePositionID": 508,
+        "legislatorID": 49304,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 30,
+        "committeePositionID": 509,
+        "legislatorID": 117468,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 30,
+        "committeePositionID": 510,
+        "legislatorID": 5491,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 30,
+        "committeePositionID": 511,
+        "legislatorID": 138373,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 30,
+        "committeePositionID": 512,
+        "legislatorID": 50675,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 30,
+        "committeePositionID": 513,
+        "legislatorID": 987654,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 30,
+        "committeePositionID": 514,
+        "legislatorID": 49937,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 30,
+        "committeePositionID": 515,
+        "legislatorID": 5563,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 30,
+        "committeePositionID": 516,
+        "legislatorID": 138351,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 30,
+        "committeePositionID": 517,
+        "legislatorID": 131451,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 30,
+        "committeePositionID": 518,
+        "legislatorID": 8012,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 30,
+        "committeePositionID": 519,
+        "legislatorID": 69503,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 5,
+        "committeePositionID": 520,
+        "legislatorID": 49524,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 5,
+        "committeePositionID": 521,
+        "legislatorID": 138355,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 5,
+        "committeePositionID": 522,
+        "legislatorID": 70466,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 5,
+        "committeePositionID": 523,
+        "legislatorID": 5502,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 5,
+        "committeePositionID": 524,
+        "legislatorID": 116946,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 5,
+        "committeePositionID": 525,
+        "legislatorID": 80580,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 5,
+        "committeePositionID": 526,
+        "legislatorID": 49612,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 18,
+        "committeePositionID": 527,
+        "legislatorID": 10099,
+        "position": 2,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 18,
+        "committeePositionID": 528,
+        "legislatorID": 5491,
+        "position": 1,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 18,
+        "committeePositionID": 529,
+        "legislatorID": 10044,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 18,
+        "committeePositionID": 530,
+        "legislatorID": 49842,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 18,
+        "committeePositionID": 531,
+        "legislatorID": 116968,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 18,
+        "committeePositionID": 532,
+        "legislatorID": 57985,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 18,
+        "committeePositionID": 533,
+        "legislatorID": 69565,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 18,
+        "committeePositionID": 534,
+        "legislatorID": 5571,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 18,
+        "committeePositionID": 535,
+        "legislatorID": 26513,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 18,
+        "committeePositionID": 536,
+        "legislatorID": 138360,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
+    },
+    {
+        "committeeId": 18,
+        "committeePositionID": 537,
+        "legislatorID": 49730,
+        "position": 0,
+        "updated": "2017-02-14 01:11:31"
     }
 ]
