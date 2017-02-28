@@ -8318,5 +8318,15 @@
         "wnomAdj": -0.8309,
         "wnomID": 1955,
         "wnomStderr": 0.0545
+    },
+    {
+        "adjMean": -0.6912,
+        "legislatorID": 137802,
+        "openstatesID": "TXL000679",
+        "session": 83,
+        "updated": "2017-02-28 12:51:43",
+        "wnomAdj": -0.6912,
+        "wnomID": 1956,
+        "wnomStderr": 0
     }
 ]
