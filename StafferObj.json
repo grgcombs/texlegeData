@@ -1143,6 +1143,33 @@
         "updated": "2017-03-17 22:16:45"
     },
     {
+        "email": "lonnie.dietz@senate.state.tx.us",
+        "legislatorID": 59392,
+        "name": "Lonnie Dietz",
+        "phone": null,
+        "stafferID": 5792,
+        "title": "Chief Of Staff",
+        "updated": "2017-03-08 15:39:27"
+    },
+    {
+        "email": "jeremy.mazur@senate.state.tx.us",
+        "legislatorID": 59392,
+        "name": "Jeremy Mazur",
+        "phone": null,
+        "stafferID": 5793,
+        "title": "Dep. Chief Of Staff/Legis. Dir.",
+        "updated": "2017-03-08 15:39:27"
+    },
+    {
+        "email": "ryan.paylor@senate.state.tx.us",
+        "legislatorID": 59392,
+        "name": "Ryan Paylor",
+        "phone": null,
+        "stafferID": 5797,
+        "title": "Policy Director",
+        "updated": "2017-03-08 15:39:27"
+    },
+    {
         "email": "camille.foster@senate.state.tx.us",
         "legislatorID": 59415,
         "name": "Camille Foster",
@@ -2374,6 +2401,24 @@
         "stafferID": 6261,
         "title": "Senior Advisor",
         "updated": "2017-03-17 22:16:45"
+    },
+    {
+        "email": "gabriela.perdichizzi@senate.state.tx.us",
+        "legislatorID": 59392,
+        "name": "Gabriela Perdichizzi",
+        "phone": null,
+        "stafferID": 6264,
+        "title": "Exec. Asst. / Policy Analyst",
+        "updated": "2017-03-08 15:39:27"
+    },
+    {
+        "email": "richard.gee@senate.state.tx.us",
+        "legislatorID": 59392,
+        "name": "Richard Gee",
+        "phone": null,
+        "stafferID": 6265,
+        "title": "Policy Analyst",
+        "updated": "2017-03-08 15:39:27"
     },
     {
         "email": "gina.shahidullah@house.state.tx.us",
@@ -6226,5 +6271,14 @@
         "stafferID": 6693,
         "title": "Scheduler",
         "updated": "2017-03-17 22:18:37"
+    },
+    {
+        "email": "gina.leissner@senate.state.tx.us",
+        "legislatorID": 59392,
+        "name": "Gina Leissner",
+        "phone": null,
+        "stafferID": 6694,
+        "title": "Leg. Correspondent",
+        "updated": "2017-03-08 15:39:27"
     }
 ]
